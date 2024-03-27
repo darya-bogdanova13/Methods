@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args){
         System.out.println("Задача 1");
-        int i = 2400;
+        int i = 2500;
         year(i);
         int clientOS = 0;
         int clientDeviceYear = 2016;
